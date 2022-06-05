@@ -1,4 +1,4 @@
-  <h1 align="right">الواجب 2 </h1>
+  <h1 align="right">super students 1</h1>
 
 <p dir="rtl">
 <img src="/ss1.gif" width="200" alt="alt_text" title="image_tooltip">
@@ -7,8 +7,6 @@
 
 <br>
 
-
----
 
 
 <p dir="rtl">
